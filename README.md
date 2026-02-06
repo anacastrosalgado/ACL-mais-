@@ -4,9 +4,7 @@
 </p>
 
 O projeto **ACL+ – Linguagem, Cultura e Inclusão Digital** tem como objetivo promover o acesso universal e aberto aos recursos lexicográficos da língua portuguesa, com base em princípios de acessibilidade, linguagem clara, educação linguística e inovação digital.
-
 Inscreve-se, assim, nas abordagens da ciência aberta e da ciência cidadã, valorizando a participação dos públicos que beneficiam da partilha de conhecimento e reforçando a ligação entre investigação e sociedade.
-
 O projeto visa assegurar que o conhecimento linguístico e cultural chegue, de forma inclusiva, a todos: estudantes, docentes, migrantes, pessoas com dificuldades de literacia e comunidades com acesso limitado a recursos digitais.
 
 ---
@@ -14,13 +12,10 @@ O projeto visa assegurar que o conhecimento linguístico e cultural chegue, de f
 ## Enquadramento
 
 A **Academia das Ciências de Lisboa (ACL)**, fundada em 1779, tem uma longa tradição de produção de conhecimento científico e cultural. Os seus recursos lexicográficos de referência — o *Dicionário da Língua Portuguesa* e o *Vocabulário Ortográfico da Língua Portuguesa* — constituem um património nacional que importa preservar, atualizar e disponibilizar em acesso aberto.
-
 Atualmente, mais de um milhão de utilizadores consulta anualmente os recursos lexicais da ACL. Em 2025, o número de consultas do dicionário ultrapassou 2,4 milhões de acessos.
-
 Apesar desta elevada procura, persistem barreiras de acesso, sobretudo para públicos desfavorecidos, comunidades escolares periféricas, migrantes e, em geral, pessoas com baixa literacia.
 
 O ACL+ responde a este desafio com uma abordagem integrada:
-
 - Preservação digital do património  
 - Plataformas inclusivas 
 - Conteúdos em linguagem clara
@@ -53,7 +48,6 @@ O ACL+ organiza-se em quatro eixos:
 ## Principais ações
 
 Ao longo de três anos, o projeto prevê:
-
 - Plataforma digital inclusiva com funcionalidades de acessibilidade e pesquisa avançada.  
 - Protótipos de assistentes virtuais para facilitar o acesso a conteúdos lexicais.  
 - Vocabulários temáticos em linguagem clara.  
