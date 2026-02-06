@@ -58,7 +58,7 @@ Ao longo de três anos, o projeto prevê:
 
 ## Equipa
 
-### Coordenação científica
+### Direção científica
 - Ana Salgado (Presidente do ILLLP)
 
 ### Direção executiva
