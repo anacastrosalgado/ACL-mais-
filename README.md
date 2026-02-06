@@ -3,34 +3,34 @@
   <img src="ACL%2B.png" alt="Logo do ACL+" width="180">
 </p>
 
-O projeto **ACL+ – Linguagem, Cultura e Inclusão Digital** tem como objetivo promover o acesso universal e aberto aos recursos lexicográficos da língua portuguesa, com base em princípios de **acessibilidade**, **linguagem clara**, **educação linguística** e **inovação digital**.
+O projeto **ACL+ – Linguagem, Cultura e Inclusão Digital** tem como objetivo promover o acesso universal e aberto aos recursos lexicográficos da língua portuguesa, com base em princípios de acessibilidade, linguagem clara, educação linguística e inovação digital.
 
 Inscreve-se, assim, nas abordagens da **ciência aberta** e da **ciência cidadã**, valorizando a participação dos públicos que beneficiam da partilha de conhecimento e reforçando a ligação entre investigação e sociedade.
 
-O projeto visa assegurar que o conhecimento linguístico e cultural chegue, de forma inclusiva, a todos: **estudantes**, **docentes**, **migrantes**, **pessoas com dificuldades de literacia** e **comunidades com acesso limitado a recursos digitais**.
+O projeto visa assegurar que o conhecimento linguístico e cultural chegue, de forma inclusiva, a todos: estudantes, docentes, migrantes, pessoas com dificuldades de literacia e comunidades com acesso limitado a recursos digitais.
 
 ---
 
 ## Enquadramento
 
-A **Academia das Ciências de Lisboa (ACL)**, fundada em **1779**, tem uma longa tradição de produção de conhecimento científico e cultural. Os seus recursos lexicográficos de referência — o **Dicionário da Língua Portuguesa** e o **Vocabulário Ortográfico da Língua Portuguesa** — constituem um património nacional que importa preservar, atualizar e disponibilizar em acesso aberto.
+A **Academia das Ciências de Lisboa (ACL)**, fundada em 1779, tem uma longa tradição de produção de conhecimento científico e cultural. Os seus recursos lexicográficos de referência — o **Dicionário da Língua Portuguesa** e o **Vocabulário Ortográfico da Língua Portuguesa** — constituem um património nacional que importa preservar, atualizar e disponibilizar em acesso aberto.
 
-Atualmente, mais de **um milhão de utilizadores** consulta anualmente os recursos lexicais da ACL. Em **2025**, o número de consultas do dicionário ultrapassou **2,4 milhões** de acessos.
+Atualmente, mais de um milhão de utilizadores consulta anualmente os recursos lexicais da ACL. Em 2025, o número de consultas do dicionário ultrapassou 2,4 milhões de acessos.
 
-Apesar desta elevada procura, persistem **barreiras de acesso**, sobretudo para públicos desfavorecidos, comunidades escolares periféricas, migrantes e, em geral, pessoas com baixa literacia.
+Apesar desta elevada procura, persistem barreiras de acesso, sobretudo para públicos desfavorecidos, comunidades escolares periféricas, migrantes e, em geral, pessoas com baixa literacia.
 
-O **ACL+** responde a este desafio com uma abordagem integrada:
+O ACL+ responde a este desafio com uma abordagem integrada:
 
-- **Preservação digital** do património  
-- **Plataformas inclusivas**  
-- **Conteúdos em linguagem clara**  
-- **Ferramentas baseadas em inteligência artificial (IA)**, que apoiam o acesso a conteúdos lexicográficos estruturados e capacitam os diversos públicos para o uso eficaz dessa informação  
+- Preservação digital do património  
+- Plataformas inclusivas 
+- Conteúdos em linguagem clara
+- Ferramentas baseadas em inteligência artificial (IA)**, que apoiam o acesso a conteúdos lexicográficos estruturados e capacitam os diversos públicos para o uso eficaz dessa informação  
 
 ---
 
 ## Objetivos e eixos estratégicos
 
-O **ACL+** organiza-se em quatro eixos:
+O ACL+ organiza-se em quatro eixos:
 
 ### Eixo 1 — Acesso e inclusão
 - Democratizar o acesso a conteúdos lexicográficos em acesso aberto.  
@@ -67,14 +67,14 @@ Ao longo de três anos, o projeto prevê:
 ## Equipa
 
 ### Coordenação científica
-- **Ana Salgado** (Presidente do ILLLP)
+- Ana Salgado (Presidente do ILLLP)
 
 ### Direção Executiva
-- **Raquel Silva** (Especialista em Lexicografia e Terminologia)
+- Raquel Silva (Especialista em Lexicografia e Terminologia)
 
 ### Equipa
-- **Leonor Martins** (Bolseira de investigação)  
-- **Leonor Reis** (Bolseira de investigação)
+- Leonor Martins (Bolseira de investigação)  
+- Leonor Reis (Bolseira de investigação)
 
 ### Especialistas
 - Especialistas de várias áreas científicas *(nomes serão disponibilizados em breve)*
