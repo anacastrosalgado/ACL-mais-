@@ -5,7 +5,7 @@
 
 O projeto **ACL+ – Linguagem, Cultura e Inclusão Digital** tem como objetivo promover o acesso universal e aberto aos recursos lexicográficos da língua portuguesa, com base em princípios de acessibilidade, linguagem clara, educação linguística e inovação digital.
 
-Inscreve-se, assim, nas abordagens da **ciência aberta** e da **ciência cidadã**, valorizando a participação dos públicos que beneficiam da partilha de conhecimento e reforçando a ligação entre investigação e sociedade.
+Inscreve-se, assim, nas abordagens da ciência aberta e da ciência cidadã, valorizando a participação dos públicos que beneficiam da partilha de conhecimento e reforçando a ligação entre investigação e sociedade.
 
 O projeto visa assegurar que o conhecimento linguístico e cultural chegue, de forma inclusiva, a todos: estudantes, docentes, migrantes, pessoas com dificuldades de literacia e comunidades com acesso limitado a recursos digitais.
 
