@@ -61,7 +61,7 @@ Ao longo de três anos, o projeto prevê:
 ### Coordenação científica
 - Ana Salgado (Presidente do ILLLP)
 
-### Direção Executiva
+### Direção executiva
 - Raquel Silva (Especialista em Lexicografia e Terminologia)
 
 ### Equipa
