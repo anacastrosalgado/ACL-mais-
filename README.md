@@ -1,6 +1,5 @@
 # ACL+ – Linguagem, Cultura e Inclusão Digital
 ![Logo do ACL+](ACL%2B.png)
-<img src="ACL%2B.png" alt="Logo do ACL+" width="180">
 <p align="center">
   <img src="ACL%2B.png" alt="Logo do ACL+" width="180">
 </p>
