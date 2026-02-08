@@ -64,7 +64,7 @@ Ao longo de três anos, o projeto prevê:
 ### Direção executiva
 - Raquel Silva (Especialista em Lexicografia e Terminologia)
 
-### Bolseiras de investigação
+### Bolseiras de investigação do ILLLP
 - Leonor Martins
 - Leonor Reis
 
